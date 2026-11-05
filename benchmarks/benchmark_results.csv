@@ -1,0 +1,6 @@
+qubits,simulation_type,optimizer,ground_energy,exact_ground_energy,absolute_error,iterations,execution_time_seconds,status
+2,Local SLOS,COBYLA,-1.6484368191907572,-1.64843682,0.00000000,,,Validated against exact diagonalization
+3,Local SLOS,COBYLA,-2.6620772507526684,-2.66615292,0.00407567,,,VQE result obtained
+4,Local SLOS,COBYLA,,,,,,Pending validation
+4,Local SLOS parallel,COBYLA,,,,,,Pending validation
+2,Remote sim:ascella,Fixed parameter,, -1.64843682,,,,Diagnostic only; not a completed VQE optimization
