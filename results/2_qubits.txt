@@ -1,0 +1,2 @@
+Ground state energy: -1.6484368191907572
+Optimal thetas (deg): [13.11795466]
